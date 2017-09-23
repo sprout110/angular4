@@ -1,0 +1,40 @@
+{
+  "name": "angular4",
+  "version": "1.0.0",
+  "description": "\"# angular4\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprout110/angular4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprout110/angular4/issues"
+  },
+  "homepage": "https://github.com/sprout110/angular4#readme",
+  "dependencies": {
+    "@angular/common": "^4.4.3",
+    "@angular/compiler": "^4.4.3",
+    "@angular/core": "^4.4.3",
+    "@angular/forms": "^4.4.3",
+    "@angular/http": "^4.4.3",
+    "@angular/platform-browser": "^4.4.3",
+    "@angular/platform-browser-dynamic": "^4.4.3",
+    "@angular/router": "^4.4.3",
+    "core-js": "^2.5.1",
+    "rxjs": "^5.4.3",
+    "systemjs": "^0.20.19",
+    "zone.js": "^0.8.17"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.6.0",
+    "@types/node": "^8.0.30",
+    "lite-server": "^2.3.0"
+  }
+}
